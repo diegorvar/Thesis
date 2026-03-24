@@ -23,8 +23,8 @@ The code for the climatologies works as following:
 The code for southern fronts works similarly, just with the addition of one extra loop to divide it into fronts instead.
 
 ## Accessing the Climatologies 
-The climatologies for PAPA are saved at /glade/u/home/diegovar/summer2025/climatologies
-and for the southern ocean fronts at /glade/u/home/diegovar/summer2025/climatologiesso
+The zonal climatologies are stored at /glade/work/diegovar/climatologiesthesis/
+The spatial climatologies are stored at /glade/work/diegovar/climatologies_spatial1
 
 The regions are np for North Pacific (PAPA) and  [pfz, stz, saz, az, siz] for the ocean fronts.
 
